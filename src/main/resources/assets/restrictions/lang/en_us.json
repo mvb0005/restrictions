@@ -14,3 +14,4 @@
     "message.restrictions.oneway.header": "This forces entities, items, mobs, players, ... to move in a certain direction",
     "message.restrictions.oneway_wall.header": "This block only allows entities, items, mobs, players, ... to move in a certain direction"
 }
+
